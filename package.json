@@ -1,0 +1,12 @@
+{
+  "name": "404bot-ts",
+  "version": "1.0.0",
+  "main": "src/app.ts",
+  "license": "MIT",
+  "scripts": {
+    "run": "ts-node ."
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.14"
+  }
+}
